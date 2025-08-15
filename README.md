@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">🔷 UI/UX Designer & Front‑End Developer  <br>🔷 Expert in Minimalist Aesthetics & Cutting‑Edge Tech<br><br>🔹 17‑year‑old prodigy with 3 years of industry practice  <br>🔹 Translating visionary concepts into refined digital experiences  <br>🔹 End‑to‑end UI prototyping (Figma, Framer)  <br>🔹 High‑performance front‑end engineering (React.js · Next.js · Vite)  <br>🔹 Cohesive, scalable design system architecture  <br><br>🔹 Empirical user research & data‑driven UX  <br>🔹 Modular, maintainable code aligned with modern standards  <br>🔹 Portfolio: e‑commerce, corporate portals & web applications  <br><br>🔹 Advocating elegant simplicity & intuitive flows  <br>🔹 Harmonizing form with pragmatic function  <br>🔹 Unwavering pursuit of continuous innovation  <br><br>🌐 github.com/FreaksLessy</p>
+<p align="left">🔷 UI/UX Designer & Front‑End Developer  <br>🔷 Expert in Minimalist Aesthetics & Cutting‑Edge Tech<br><br>• 17‑year‑old prodigy with 3 years of industry practice  <br>• Translating visionary concepts into refined digital experiences  <br>• End‑to‑end UI prototyping (Figma, Framer)  <br>• High‑performance front‑end engineering (React.js · Next.js · Vite)  <br>• Cohesive, scalable design system architecture  <br><br>• Empirical user research & data‑driven UX  <br>• Modular, maintainable code aligned with modern standards  <br>• Portfolio: e‑commerce, corporate portals & web applications  <br><br>• Advocating elegant simplicity & intuitive flows  <br>• Harmonizing form with pragmatic function  <br>• Unwavering pursuit of continuous innovation  <br><br>🌐 github.com/FreaksLessy</p>
 
 ###
 
