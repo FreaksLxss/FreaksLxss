@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<h1 align="center">𝙿𝚎𝚊𝚌𝚎 𝚋𝚎 𝚞𝚙𝚘𝚗 𝚝𝚑𝚢 𝚙𝚊𝚝𝚑</h1>
+<h1 align="center">uhh</h1>
 
 ###
 
@@ -88,24 +88,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   Performance Summary</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FreaksLxss&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=FreaksLxss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-
-###
