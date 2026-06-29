@@ -1,198 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:2563eb&height=200&section=header&text=FreaksLxss&fontSize=40&fontColor=ffffff" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+UI%2FUX+Designer+%7C+Web+Developer;Building+fast%2C+clean+and+scalable+interfaces;React+%7C+Next.js+%7C+TypeScript+%7C+Design+Systems)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b14,50:1a1440,100:4c1d95&height=180&section=header&text=FreaksLxss&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Frontend%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Web%20Architect&descSize=14" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ABOUT
 
-Frontend-focused Computer Engineering student specialized in building modern, fast, and scalable web interfaces.
+Frontend-focused Computer Engineering student building scalable UI systems and modern web applications.
 
-I focus on:
-- UI/UX engineering with real usability thinking, not just visuals
-- Frontend architecture using React, Next.js, and TypeScript
-- Design systems that scale across products
-- Performance-first web applications
-- Turning Figma concepts into production-grade interfaces
+I specialize in:
+- Component-driven frontend architecture
+- UI/UX systems that scale beyond prototypes
+- Performance-first React and Next.js applications
+- Turning design into production-grade engineering
 
-I don’t do random coding. I build structured products.
-
-**Open To:**
-- Frontend Engineer roles
-- UI/UX + Product Design engineering
-- Freelance web development
-- Open source collaboration
+I care about structure, clarity, and execution over visual noise.
 
 ---
 
-## 🧰 Tech Stack
+## CORE ENGINEERING STACK
 
 ### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,cs,php,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,php,cs,html,css" />
 
 ### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sass,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,sass" />
 
-### Backend & Database
-<p>
+### Backend & Data
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase" />
-</p>
 
 ### Tools & Workflow
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,netlify,wordpress" />
+
+---
+
+## ENGINEERING FOCUS
+
+| Area | Level | Description |
+|------|------|-------------|
+| UI Engineering | Advanced | Component systems & design consistency |
+| UX Architecture | Advanced | User flow optimization |
+| Frontend Systems | Advanced | Scalable React architecture |
+| Design Systems | Intermediate | Reusable UI foundations |
+| Performance | Intermediate | Rendering + load optimization |
+
+---
+
+## FEATURED WORK
+
+### Portfolio System
+Minimal, performance-focused personal portfolio built with React and modern UI principles.
+
+<a href="https://freaksless.netlify.app">
+  <img src="https://img.shields.io/badge/LIVE-PROJECT-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
+
+### UI Engineering Systems
+Reusable frontend components and layout systems built for scalability and consistency.
+
+<a href="https://github.com/FreaksLxss">
+  <img src="https://img.shields.io/badge/GITHUB-CODEBASE-1a1440?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+## EXPERIENCE
+
+Frontend Engineer & UI/UX Designer  
+Independent · 2021 - Present
+
+- Built scalable frontend applications using React ecosystem
+- Designed and implemented design systems from scratch
+- Converted Figma designs into production-ready interfaces
+- Focused on performance, accessibility, and maintainability
+- Developed reusable component-driven architectures
+
+---
+
+## GITHUB INSIGHTS
+
+<img src="https://github-readme-stats.vercel.app/api?username=FreaksLxss&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreaksLxss&layout=compact&theme=github_dark&hide_border=true" />
+
+---
+
+## CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FreaksLxss&theme=github-compact&hide_border=true" />
+
+---
+
+## CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/FreaksLxss/FreaksLxss/output/snake.svg" />
+
+---
+
+## CONNECT
+
+<p align="left">
+
+<a href="mailto:mostafaaa0910@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-0b0b14?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mostafakhz/">
+  <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://freaksless.netlify.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-4c1d95?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/FreaksLxss">
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-0f0f1a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-## 🎨 UI / UX Focus
-
-| Domain | Level | Focus |
-|--------|------|------|
-| UI Design | Advanced | Clean interfaces, design systems |
-| UX Thinking | Advanced | User flows, usability patterns |
-| Prototyping | Advanced | Figma-based product design |
-| Design Systems | Intermediate | Scalable component architecture |
-| Frontend Translation | Advanced | Figma → production React UI |
-
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>Portfolio Website</b></summary>
-
-| Stack | Scale | Performance | Security | Impact | Repo |
-|------|------|-------------|----------|--------|------|
-| React, Tailwind | Personal | Optimized SPA | Standard | Personal branding | github.com/FreaksLxss |
-
-Built as a personal engineering hub with focus on speed, minimal UI, and responsive design. Structured for recruiter readability and scalable updates.
-
-</details>
-
-<details>
-<summary><b>UI Components System</b></summary>
-
-| Stack | Scale | Performance | Security | Impact | Repo |
-|------|------|-------------|----------|--------|------|
-| React, TypeScript | Modular | High | Standard | Reusable design system | github.com/FreaksLxss |
-
-A reusable UI system designed for consistent frontend architecture across projects.
-
-</details>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|--------|
-| Frontend Focus | Strong specialization in UI engineering |
-| Design Thinking | UX-first approach in all projects |
-| Rapid Builder | Fast iteration across web products |
-
-</div>
-
----
-
-## 📜 Certifications
-
-**Self-driven engineering track (Computer Engineering + Web Development focus)**
-
-- Frontend Development (React ecosystem)
-- UI/UX Design (Figma-based workflows)
-- Responsive Web Engineering
-- Design Systems Fundamentals
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/GitHub-FreaksLxss-181717?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Portfolio-freaksless.netlify.app-6d28d9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" />
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FreaksLxss&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FreaksLxss&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreaksLxss&layout=compact&theme=tokyonight" height="180"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FreaksLxss&theme=tokyonight&row=1&column=6" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FreaksLxss&theme=tokyo-night" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## ⚙️ Current Focus
+## CURRENT FOCUS
 
 ```yaml
 Learning:
-  - Advanced React Patterns
-  - Frontend Architecture
-  - Performance Optimization
+  - Advanced React architecture patterns
+  - Frontend performance optimization
 
 Building:
   - Scalable UI systems
-  - Portfolio-grade web apps
-  - Design systems
+  - Production-grade web applications
 
 Exploring:
-  - Next.js full-stack patterns
-  - UI engineering at scale
+  - Design systems at scale
+  - UX-driven engineering workflows
 
 Open_To:
-  - Frontend Engineer roles
-  - Freelance UI projects
+  - Frontend engineering roles
+  - UI/UX freelance projects
   - Open source collaboration
